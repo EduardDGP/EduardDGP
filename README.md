@@ -59,10 +59,7 @@ Reservas de aulas, guardias, control de salidas, comunicación interna y pagos, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EduardDGP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&locale=es" height="165" alt="Estadísticas de GitHub" />
-<img src="https://streak-stats.demolab.com?user=EduardDGP&theme=tokyonight&hide_border=true&background=0f2027&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&locale=es" height="165" alt="Racha de contribuciones" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardDGP&bg_color=0f2027&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&hide_border=true" alt="Gráfico de actividad" />
+<img src="https://streak-stats.demolab.com?user=EduardDGP&theme=tokyonight&hide_border=true&background=0f2027&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&locale=es" alt="Racha de contribuciones" />
 
 </div>
 
